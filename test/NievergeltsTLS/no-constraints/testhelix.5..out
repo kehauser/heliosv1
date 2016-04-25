@@ -1,0 +1,37 @@
+
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          kHelix  v1.0                                     2015
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+          inputhelix            NewNievergelt.5xyz                                                                                  
+          coord_type                           0
+             num_grd                          90
+              natoms                           0
+             nframes                           1
+        grid_phi_beg                      0.0000
+        grid_phi_end                    180.0000
+      grid_theta_beg                      0.0000
+      grid_theta_end                    360.0000
+               dsDNA                           0
+        opt_axis_out                           0
+       all_helix_out                           0
+             oradian                           0
+     helix_atom_name            P 
+       helixout_name            testhelix.5..out                                                                                    
+          print_sing                           0
+          print_step                           0
+       print_to_plot                           0
+
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          kHelix  execution info                              :::
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| Run on 07/22/2015 at 12:10:43
+
+| Executable path:   /Users/k/Desktop/Manuscripts/kHelix/Code/kHelix.o
+| Working directory: /Users/k/Desktop/Manuscripts/kHelix/Results/001.table1_UNconstrained_Nievergelt
+
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          kHelix  results                                     :::
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

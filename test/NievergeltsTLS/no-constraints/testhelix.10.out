@@ -1,0 +1,73 @@
+
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          kHelix  v1.0                                     2015
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+          inputhelix            NewNievergelt.10xyz                                                                                 
+          coord_type                           0
+             num_grd                         360
+              natoms                          10
+             nframes                           1
+        grid_phi_beg                      0.0000
+        grid_phi_end                    180.0000
+      grid_theta_beg                      0.0000
+      grid_theta_end                    180.0000
+               dsDNA                           0
+        opt_axis_out                           0
+       all_helix_out                           0
+             oradian                           0
+     helix_atom_name            P 
+       helixout_name            testhelix.10.out                                                                                    
+          print_sing                           0
+          print_step                           1
+       print_to_plot                           0
+
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          kHelix  execution info                              :::
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| Run on 07/22/2015 at 08:19:31
+
+| Executable path:   /Users/k/Desktop/Manuscripts/kHelix/Code/kHelix.o
+| Working directory: /Users/k/Desktop/Manuscripts/kHelix/Results/002.table2_constrained_Nievergelt
+
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          kHelix  results                                     :::
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Phi:                  132.0000
+   Theta:                127.0000
+   Residual:               0.0124
+   Radius:               195.7143
+   Pitch of A:           596.8055
+   Sweep of A:            89.8261
+
+
+ ................................................................
+          Angles swept between successive steps               :::
+ ................................................................
+
+   Step    1    Sweeps(degrees)    14.2140
+
+   Step    2    Sweeps(degrees)     8.3519
+
+   Step    3    Sweeps(degrees)     7.8730
+
+   Step    4    Sweeps(degrees)     6.3490
+
+   Step    5    Sweeps(degrees)    16.2319
+
+   Step    6    Sweeps(degrees)     6.3474
+
+   Step    7    Sweeps(degrees)     7.8762
+
+   Step    8    Sweeps(degrees)     8.3574
+
+   Step    9    Sweeps(degrees)    14.2253
+
+
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          kHelix  execution timing:                         :::
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Duration of kHelix execution (seconds):            0.272260
