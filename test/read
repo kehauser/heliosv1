@@ -1,2 +1,15 @@
-test
+this folder houses a variety of test cases used to validate the method.
+
+NievergeltsTLS/
+  Yves Nievergelt published a very interesting article entitled "Fitting helices to data by total least squares"
+    (Journal: Computer Aided Geometric Design; Year: 1997; Volume: 14; Pages: 707-718)
+  In that article, Nievergelt presented a method "similar" to that used in Helios. Table 1 of the article presents the Cartesian 
+    coordinates of 10 points of an irregular helix that sweeps 90 degrees (yes, it looks an arc). The radius of the helix the
+    points trace is 195 Arbitrary Unites (AU) and the pitch of the helix is 594 AU.
+  axis-constraints/
+    This directory tests Helios while using constraints on the orientation of the helix axis by bounding the range of Phi and Theta.
+  no-constraints/
+    This directory tests Helios without any constraints (all five helical parameters are free).
+    
+
 
