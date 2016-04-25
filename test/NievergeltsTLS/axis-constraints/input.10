@@ -1,0 +1,12 @@
+inputhelix NewNievergelt.10xyz
+helixout_name testhelix.10.1080.out
+coord_type 0
+num_grid 1080
+natoms 10
+nframes 1
+grid_phi_beg 90
+grid_phi_end 135
+grid_theta_beg 90
+grid_theta_end 135
+print_to_plot 1
+print_step 0
