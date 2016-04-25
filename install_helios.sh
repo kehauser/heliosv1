@@ -111,20 +111,3 @@ EOF
 $KHELIXHOME/bin/heliosv2.o Ktest.input
 #-----------------------------------
 #<< commentOUT4
-
-#<< 'commentOUT5'
-#-----------------------------------
-echo 
-echo -
-echo - - -
-echo The examples in the test_1, test_2, test_3 directories
-echo  have simple bash scripts that generate a kHelix input
-echo   file and then execute based on that input file. The
-echo    example directories have multiple coordinates files
-echo     that will be looped over by the run script.
-echo Please play around with the run scripts!
-echo If you are having problems that Google can-t help you 
-echo  with, please contact Kevin at 84hauser@gmail.com....
-echo Rock on...
-#-----------------------------------
-#commentOUT5
