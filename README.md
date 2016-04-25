@@ -1,4 +1,6 @@
 # heliosv1
-helios derives helical parameters from a set of points using some linear algebra and vector analysis. it rocks. but it can rock harder, if you-re interested!
+Helios derives helical parameters from a set of points using geometry, linear algebra and vector analysis.
 
-Please see "todolist.md" for wishlist of functions, along with some of my initial guesses at how they might git:) done
+Please see "todolist.md" for upcoming functions!
+
+k
