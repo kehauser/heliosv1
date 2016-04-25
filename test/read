@@ -25,6 +25,9 @@ this folder houses a variety of test cases used to validate the method. some of 
     Depending on the torsion angles within the peptide chain, slightly yet detectably different types of helical geometries --
     "helical secondary structure elements" -- are observed in proteins: alpha, pi and 3_10.
     
-  ./  
+    
+./alpha-helix/
+  This directory houses tests in which the number of CA atoms of three variants of the alpha helix are required to derive the known
+    reference helical parameters of alpha helical secondary structure elements.
 
 
