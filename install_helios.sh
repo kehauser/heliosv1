@@ -73,12 +73,12 @@ echo - - -
 #-----------------------------------
 #commentOUT1
 
-<< 'commentOUT2'
+#<< 'commentOUT2'
 #-----------------------------------
 export KHELIXHOME=$(pwd)
 export PATH=$PATH:$KHELIXHOME
 #-----------------------------------
-<< commentOUT2
+#<< commentOUT2
 
 #<< 'commentOUT3'
 #-----------------------------------
@@ -108,6 +108,6 @@ echo - - -
 cat > Ktest.input << EOF
 ktest 1
 EOF
-$KHELIXHOME/bin/heliosv2.o Ktest.input
+$KHELIXHOME/bin/helios.o Ktest.input
 #-----------------------------------
 #<< commentOUT4
