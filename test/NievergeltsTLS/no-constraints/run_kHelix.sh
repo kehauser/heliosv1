@@ -31,7 +31,7 @@ print_step 0
 EOF
 #
 #
-/Users/k/Desktop/Manuscripts/kHelix/Code/kHelix.o input.$count
+$KHELIXHOME/bin/helios.o input.$count
 #
 #
 done
